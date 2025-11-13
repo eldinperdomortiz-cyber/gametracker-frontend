@@ -1,4 +1,4 @@
-import { GameLibrary } from "@/components/game-library"
+import { GameLibrary eldin } from "@/components/game-library"
 import { Header } from "@/components/header"
 
 export default function Home() {
