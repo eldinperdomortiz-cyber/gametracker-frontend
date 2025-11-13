@@ -83,6 +83,12 @@
   --color-card-foreground: var(--card-foreground);
   --color-popover: var(--popover);
   --color-popover-foreground: var(--popover-foreground);
+  :root {
+  --primary: #d6a3ff; /* morado pastel */
+  --secondary: #ffd6a5; /* amarillo pastel */
+  --accent: #ffb5e8; /* rosa pastel */
+  --highlight: #a7c7e7; /* azul pastel */
+}
   --color-primary: var(--primary);
   --color-primary-foreground: var(--primary-foreground);
   --color-secondary: var(--secondary);
